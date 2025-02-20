@@ -1,0 +1,6 @@
+name: RePokeText
+version: '1.0'
+main: io.github.swagree.repoketext.Main
+commands:
+  rpt:
+    description: SwagRee's RePokeText Plugin can amazing;

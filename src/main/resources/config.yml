@@ -1,0 +1,19 @@
+TextInfo:
+  slot: 0
+  text: ""
+  Size:
+    weight: 88
+    height: 88
+  Color:
+    Red: 255
+    Green: 255
+    Blue: 255
+    Alpha: 250
+  TextureSize:
+    height: 88
+    weight: 88
+  TextScale: 88
+  PosOffset:
+    weight: -190
+    height: -100
+  imagePath: "pixelmon:textures/sprites/pokemon/650.png"
